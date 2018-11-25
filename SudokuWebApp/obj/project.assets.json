@@ -12218,23 +12218,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\s-anton.feist\\.nuget\\packages\\": {},
+    "C:\\Users\\Tony\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s-anton.feist\\source\\repos\\SudokuWebApp\\SudokuWebApp\\SudokuWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Tony\\source\\repos\\SudokuProject\\SudokuWebApp\\SudokuWebApp.csproj",
       "projectName": "SudokuWebApp",
-      "projectPath": "C:\\Users\\s-anton.feist\\source\\repos\\SudokuWebApp\\SudokuWebApp\\SudokuWebApp.csproj",
-      "packagesPath": "C:\\Users\\s-anton.feist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s-anton.feist\\source\\repos\\SudokuWebApp\\SudokuWebApp\\obj\\",
+      "projectPath": "C:\\Users\\Tony\\source\\repos\\SudokuProject\\SudokuWebApp\\SudokuWebApp.csproj",
+      "packagesPath": "C:\\Users\\Tony\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tony\\source\\repos\\SudokuProject\\SudokuWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\s-anton.feist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tony\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
