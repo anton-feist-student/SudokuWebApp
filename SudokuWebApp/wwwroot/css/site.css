@@ -35,3 +35,7 @@ body {
         display: none;
     }
 }
+
+input.cell{
+    width: 20px;
+}

@@ -12,26 +12,12 @@ namespace SudokuWebApp.Controllers
     {
         public IActionResult Index()
         {
-            return View();
-        }
-
-        public IActionResult About()
-        {
-            ViewData["Message"] = "Your application description page.";
-
-            return View();
-        }
-
-        public IActionResult Contact()
-        {
-            ViewData["Message"] = "Your contact page.";
-
-            return View();
-        }
-
-        public IActionResult Privacy()
-        {
-            return View();
+            BoardViewModel board = new BoardViewModel
+            {
+                Visibility = SudokuLogicModel.SudokuBoardInitialStatesFunction(),
+                Numbers = SudokuLogicModel.SudokuSolutionLoadFunction(SudokuTestNumbers.SudokuSolution)
+            };
+            return View(board);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
