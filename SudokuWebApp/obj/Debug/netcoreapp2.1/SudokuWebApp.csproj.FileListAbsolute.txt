@@ -50,10 +50,7 @@ C:\Users\Tony\source\repos\SudokuProject\SudokuWebApp\obj\Debug\netcoreapp2.1\Su
 C:\Users\Tony\source\repos\SudokuProject\SudokuWebApp\obj\Debug\netcoreapp2.1\SudokuWebApp.TagHelpers.input.cache
 C:\Users\Tony\source\repos\SudokuProject\SudokuWebApp\obj\Debug\netcoreapp2.1\SudokuWebApp.TagHelpers.output.cache
 C:\Users\Tony\source\repos\SudokuProject\SudokuWebApp\obj\Debug\netcoreapp2.1\SudokuWebApp.RazorCoreGenerate.cache
-C:\Users\Tony\source\repos\SudokuProject\SudokuWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
-C:\Users\Tony\source\repos\SudokuProject\SudokuWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
 C:\Users\Tony\source\repos\SudokuProject\SudokuWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\Tony\source\repos\SudokuProject\SudokuWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
 C:\Users\Tony\source\repos\SudokuProject\SudokuWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
 C:\Users\Tony\source\repos\SudokuProject\SudokuWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
 C:\Users\Tony\source\repos\SudokuProject\SudokuWebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs

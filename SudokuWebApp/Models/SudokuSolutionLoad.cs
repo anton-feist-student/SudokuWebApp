@@ -9,11 +9,12 @@ namespace SudokuWebApp.Models
     {
         // string from top left row by row
         int[][] SudokuNumbers;
-       
-  
-        public SudokuSolutionLoad(string SudokuSolution) {
+
+
+        public SudokuSolutionLoad(string SudokuSolution)
+        {
             SudokuNumbers = new int[9][];
-            for(int initialize = 0; initialize < 9; initialize++)
+            for (int initialize = 0; initialize < 9; initialize++)
             {
                 SudokuNumbers[initialize] = new int[9];
             }
@@ -27,10 +28,6 @@ namespace SudokuWebApp.Models
                     i++;
                 }
             }
-            }
         }
-
-
-     
     }
 }
